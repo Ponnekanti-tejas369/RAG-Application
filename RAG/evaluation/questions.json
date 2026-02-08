@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "type": "answerable",
+            "question": "What is the refund policy for products?"
+        },
+        {
+            "id": 2,
+            "type": "answerable",
+            "question": "How can I cancel my order?"
+        },
+        {
+            "id": 3,
+            "type": "answerable",
+            "question": "What are the shipping options available?"
+        },
+        {
+            "id": 4,
+            "type": "partial",
+            "question": "What items cannot be refunded or returned?"
+        },
+        {
+            "id": 5,
+            "type": "partial",
+            "question": "How long does international shipping take?"
+        },
+        {
+            "id": 6,
+            "type": "unanswerable",
+            "question": "What is the CEO's favorite color?"
+        },
+        {
+            "id": 7,
+            "type": "unanswerable",
+            "question": "Do you offer same-day delivery to Mars?"
+        },
+        {
+            "id": 8,
+            "type": "unanswerable",
+            "question": "What is the weather like in New York today?"
+        }
+    ]
+}
